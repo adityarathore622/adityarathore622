@@ -1,4 +1,4 @@
-
+[![An image of @adityarathore622's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityarathore622)](https://holopin.io/@adityarathore622)
 [![Data Analysis Banner](https://img.shields.io/badge/Data%20Analysis-Insights%20Through%20Numbers-blue?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://github.com/adityarathore622)
 
 ### **Hi there, I'm Aditya Rathore**
