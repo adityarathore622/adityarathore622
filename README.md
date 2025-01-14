@@ -1,7 +1,7 @@
 
 [![Data Analysis Banner](https://img.shields.io/badge/Data%20Analysis-Insights%20Through%20Numbers-blue?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://github.com/adityarathore622)
 
-***Hi there, I'm Aditya Rathore**
+### **Hi there, I'm Aditya Rathore**
 #### Data Analyst || GGSIPU 👋
 
 ----
@@ -14,7 +14,6 @@
 👥 Looking to collaborate on data-driven projects  
 📬 How to reach me: [veeruday622@gmail.com](mailto:veeruday622@gmail.com)
 
-----
 
 #### 🛠️ Languages and Tools:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -46,4 +45,5 @@
 #### 📫 Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veeruday622@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-rathore-b8bb4228b/)
+[	![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 
